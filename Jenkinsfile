@@ -12,7 +12,7 @@ pipeline {
     }
     stage("Checkout from SCM"){
           steps{
-            git branch: 'main', credentialsID: 'github', 'https://github.com/DSR5/register-app.git'
+            git branch: 'main', credentialsID: 'github', url: 'https://github.com/DSR5/register-app.git'
           }
     }
     stage("Bulid Application"){
