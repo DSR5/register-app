@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again user </h1>
+   <h1> Welcome to DSR </h1>
   
 </form>
